@@ -1,2 +1,2 @@
-# RealEstate
- An Django application that deals with realesate website
+# btre_project
+ Brad's Django project implementation
